@@ -61,7 +61,7 @@ The label should therefore never replace analysis of election, passing over, per
 
 ## Confessional Reformed evaluation
 
-The survey above distinguishes the models without ranking them. The dedicated [Reformed evaluation](reformed-evaluation.md#a-biblical-case-with-exegetical-hinges) argues that unconditional election and comprehensive providence best explain the cumulative pattern of divine purpose, effectual calling, faith, and perseverance, while treating universal-saving-will and apostasy texts as serious counterevidence.
+The survey above distinguishes the models without ranking them. The [biblical dossiers](biblical-dossiers.md) give the principal sovereignty, election, and universal-saving-will passage collections with alternative readings. The dedicated [Reformed evaluation](reformed-evaluation.md#a-biblical-case-with-exegetical-hinges) argues that unconditional election and comprehensive providence best explain the cumulative pattern of divine purpose, effectual calling, faith, and perseverance, while treating universal-saving-will and apostasy texts as serious counterevidence.
 
 ## Sources
 

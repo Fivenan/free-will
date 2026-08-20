@@ -2,7 +2,7 @@
 
 This site is a reference guide to free will in philosophy and Christian theology. It distinguishes questions about control, alternatives, and responsibility from questions about sin, grace, conversion, election, and perseverance.
 
-Begin with the [Free Will overview](theology/free-will/index.md), use a [guided reading path](theology/free-will/reading-paths.md), consult the [glossary](theology/free-will/glossary.md), or read the explicitly confessional [Reformed evaluation](theology/free-will/reformed-evaluation.md).
+Begin with the [Free Will overview](theology/free-will/index.md), use a [guided reading path](theology/free-will/reading-paths.md), consult the [glossary](theology/free-will/glossary.md), compare the [biblical dossiers](theology/free-will/biblical-dossiers.md), or read the explicitly confessional [Reformed evaluation](theology/free-will/reformed-evaluation.md).
 
 ## Four ways to explore
 

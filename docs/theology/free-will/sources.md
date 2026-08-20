@@ -2,6 +2,10 @@
 
 This index prioritizes primary texts, official confessions, and academically reputable reference works. Links provide accessible texts, not a claim that every public-domain translation is critically definitive.
 
+## Scripture links
+
+Passage references in the [biblical dossiers](biblical-dossiers.md), [tradition profiles](traditions/index.md), and [seventeen-dimension Reformed assessment](reformed-dimensions-biblical-case.md) use [Bible Gateway](https://www.biblegateway.com/) consistently as a navigation service. The links intentionally open passage ranges rather than reproduce long copyrighted quotations. A linked reference identifies evidence to examine; it does not by itself establish the interpretation claimed in the surrounding text.
+
 ## Philosophy
 
 - [Free Will](https://plato.stanford.edu/entries/freewill/), Stanford Encyclopedia of Philosophy
@@ -96,7 +100,7 @@ This index prioritizes primary texts, official confessions, and academically rep
 
 ## Confessional evaluation
 
-The [Reformed evaluation](reformed-evaluation.md#sources-and-further-study) identifies which sources control its constructive claims and which opposing primary or authoritative sources control its representations of alternative positions.
+The [Reformed evaluation](reformed-evaluation.md#sources-and-further-study) identifies which sources control its constructive claims and which opposing primary or authoritative sources control its representations of alternative positions. Its [seventeen-dimension companion](reformed-dimensions-biblical-case.md) states the Reformed answer, strongest alternative, exegetical hinge, hardest objection, response, and remaining difficulty for every canonical dimension.
 
 ## Citation policy
 

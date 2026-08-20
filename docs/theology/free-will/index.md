@@ -32,7 +32,9 @@
 - [Moral Responsibility](moral-responsibility.md) — alternatives, sourcehood, coercion, and desert
 - [Foreknowledge and Predestination](foreknowledge-and-predestination.md) — distinct problems and major solutions
 - [Grace and Salvation](grace-and-salvation.md) — ability, conversion, grace, and perseverance
+- [Biblical Dossiers](biblical-dossiers.md) — major passage collections, competing readings, and disputed-text studies
 - [A Reformed Evaluation of Free Will](reformed-evaluation.md) — an explicitly confessional assessment of the major models
+- [Reformed Evaluation across Seventeen Dimensions](reformed-dimensions-biblical-case.md) — the confessional answer, biblical case, alternative, hinge, objection, and response for every dimension
 
 ### History, traditions, and people
 
@@ -64,7 +66,7 @@ When someone says, “This tradition believes in free will,” ask:
 
 The [dimensions page](dimensions.md) turns these questions into a reusable comparison method.
 
-Readers who want an argued theological judgment after studying the descriptive material can continue to [A Reformed Evaluation of Free Will](reformed-evaluation.md). Its confessional perspective is disclosed at the outset and is not retrojected into the historical pages.
+Readers who want an argued theological judgment after studying the descriptive material can continue to [A Reformed Evaluation of Free Will](reformed-evaluation.md) and its [seventeen-dimension biblical companion](reformed-dimensions-biblical-case.md). Their confessional perspective is disclosed at the outset and is not retrojected into the historical pages.
 
 ## Starting sources
 

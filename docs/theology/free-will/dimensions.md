@@ -88,9 +88,13 @@ Some Reformed accounts place regeneration logically before faith; many Arminian 
 
 [Monergism](grace-and-salvation.md#monergism) assigns the regenerating or converting act to God alone in the relevant sense. [Synergism](grace-and-salvation.md#synergism) affirms indispensable prior grace and real human cooperation. This axis does not settle whether ordinary action is libertarian or compatibilist.
 
-### Election and reprobation
+### Election
 
-Election may be understood as unconditional, conditional on foreknown faith, corporate and Christocentric, sacramental/ecclesial, or in combinations. Reprobation may mean a positive decree, a passing over, permission, or simply the condemned state of persistent unbelief; these are not equivalent.
+Election may be understood as unconditional, conditional on foreknown faith, corporate and Christocentric, sacramental/ecclesial, or in combinations. The [election dossier](biblical-dossiers.md#4-election) identifies the major text clusters and the difference between corporate and individual questions.
+
+### Reprobation
+
+Reprobation may mean a positive decree, a passing over, permission, or simply the condemned state of persistent unbelief; these are not equivalent. It must be stated tradition by tradition rather than inferred from a generic doctrine of election. The [Reformed assessment](reformed-dimensions-biblical-case.md#16-reprobation) therefore distinguishes its own asymmetric view from Lutheran, Catholic, Orthodox, Wesleyan, and Arminian denials.
 
 ### Perseverance
 
@@ -98,4 +102,4 @@ Theories range from guaranteed preservation of all the regenerate, through confi
 
 ## Sources and next steps
 
-The distinction between alternatives and sourcehood follows the [SEP overview](https://plato.stanford.edu/entries/freewill/#FreeDoOtheVsSourAcco). Compare the [philosophical positions](philosophical-views.md), then use the same dimensions in the [thinker and tradition matrices](comparison-matrix.md).
+The distinction between alternatives and sourcehood follows the [SEP overview](https://plato.stanford.edu/entries/freewill/#FreeDoOtheVsSourAcco). Compare the [philosophical positions](philosophical-views.md), use the same dimensions in the [complete thinker and tradition matrices](comparison-matrix.md), and follow the biblical arguments in the [eight thematic dossiers](biblical-dossiers.md). The explicitly confessional [Reformed assessment](reformed-dimensions-biblical-case.md) then evaluates every dimension without changing the descriptive definitions on this page.

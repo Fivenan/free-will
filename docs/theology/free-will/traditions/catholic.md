@@ -1,5 +1,7 @@
 # Roman Catholic
 
+> **Descriptive:** This page summarizes Catholic teaching and permitted internal schools. The section labeled “Reformed Assessment” changes explicitly to a confessional Reformed judgment.
+
 ## Summary
 
 Roman Catholic teaching affirms created freedom, the damage of original sin, the absolute priority of grace, genuine cooperation in justification and sanctification, predestination, and the possibility of falling from grace. It permits several schools on how divine causality and free action fit together.
@@ -26,16 +28,29 @@ Sanctifying grace can be lost through mortal sin; repentance and sacramental rec
 
 ## Free-will dimensions
 
-| Dimension | Typical Catholic teaching |
-|---|---|
-| Alternatives/sourcehood | Real created agency; metaphysical analysis varies |
-| Fallen spiritual ability | Cannot attain saving life without grace |
-| Grace required/prior | Yes |
-| Grace resistible | Yes; sufficient/efficacious relation disputed by school |
-| Divine determination | Strong providence with real secondary causation |
-| Election | Predestination affirmed; no predestination to evil |
-| Apostasy | Possible |
-| Modern comparison | No single Catholic position |
+The positions below are representative of magisterial boundaries; Thomist, Molinist, Augustinian, and Congruist explanations differ. “Common biblical case” identifies texts Catholic interpreters characteristically integrate, not an exclusive proof-text list. See the [biblical dossiers](../biblical-dossiers.md) for disputed readings.
+
+| # | Dimension | Representative Catholic answer | Common biblical case |
+|---:|---|---|---|
+| 1 | Alternative possibilities | Created freedom is real; whether freedom always requires categorical alternatives varies by school. | [Deuteronomy 30:15–20](https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A15-20); [1 Corinthians 10:13](https://www.biblegateway.com/passage/?search=1+Corinthians+10%3A13) |
+| 2 | Sourcehood | Rational creatures are true secondary causes and own their voluntary acts; they are not ultimate self-creators. | [Deuteronomy 30:15–20](https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A15-20); [James 1:13–15](https://www.biblegateway.com/passage/?search=James+1%3A13-15) |
+| 3 | Voluntariness | Consent matters morally; divine motion and sacramental grace do not cancel voluntary agency. | [Philemon 14](https://www.biblegateway.com/passage/?search=Philemon+14); [Philippians 2:12–13](https://www.biblegateway.com/passage/?search=Philippians+2%3A12-13) |
+| 4 | Reasons-responsiveness | Intellect and will can deliberate about goods, though sin wounds judgment and desire. | [Romans 2:14–16](https://www.biblegateway.com/passage/?search=Romans+2%3A14-16); [Romans 12:1–2](https://www.biblegateway.com/passage/?search=Romans+12%3A1-2) |
+| 5 | Moral responsibility | Knowledge, consent, object, intention, and circumstance condition culpability. | [Luke 12:47–48](https://www.biblegateway.com/passage/?search=Luke+12%3A47-48); [Romans 2:6–16](https://www.biblegateway.com/passage/?search=Romans+2%3A6-16) |
+| 6 | Causal determination | No single school: Thomist motion and Molinist libertarian concurrence are both permitted. | [Acts 17:28](https://www.biblegateway.com/passage/?search=Acts+17%3A28); [Philippians 2:13](https://www.biblegateway.com/passage/?search=Philippians+2%3A13) |
+| 7 | Divine determination | Providence is comprehensive and uses real secondary causes; God does not cause moral evil as evil. | [Proverbs 16:9](https://www.biblegateway.com/passage/?search=Proverbs+16%3A9); [Romans 8:28](https://www.biblegateway.com/passage/?search=Romans+8%3A28) |
+| 8 | Divine foreknowledge | Exhaustive and infallible; its relation to free futurals is explained differently by schools. | [Psalm 139:1–16](https://www.biblegateway.com/passage/?search=Psalm+139%3A1-16); [Romans 8:29](https://www.biblegateway.com/passage/?search=Romans+8%3A29) |
+| 9 | Spiritual ability | Wounded nature cannot attain saving life or prepare for justification without prevenient grace. | [John 6:44](https://www.biblegateway.com/passage/?search=John+6%3A44); [Ephesians 2:1–10](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1-10) |
+| 10 | Grace priority | God's initiative precedes preparation, faith, and every salutary act. | [John 15:5](https://www.biblegateway.com/passage/?search=John+15%3A5); [1 Corinthians 4:7](https://www.biblegateway.com/passage/?search=1+Corinthians+4%3A7) |
+| 11 | Grace efficacy | Grace truly heals and elevates; the sufficient/efficacious relation is a school dispute. | [Ezekiel 36:25–27](https://www.biblegateway.com/passage/?search=Ezekiel+36%3A25-27); [1 Corinthians 15:10](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A10) |
+| 12 | Resistibility | A person can reject inspiration and later forfeit sanctifying grace; Thomists still distinguish successful efficacious grace. | [Matthew 23:37](https://www.biblegateway.com/passage/?search=Matthew+23%3A37); [Acts 7:51](https://www.biblegateway.com/passage/?search=Acts+7%3A51) |
+| 13 | Regeneration / faith order | In adult initiation, prevenient grace enables faith and conversion; baptism ordinarily grants new birth and justification. | [John 3:5](https://www.biblegateway.com/passage/?search=John+3%3A5); [Acts 2:38](https://www.biblegateway.com/passage/?search=Acts+2%3A38) |
+| 14 | Monergism / synergism | Initial grace is unmerited; justification includes grace-enabled consent and subsequent cooperation. | [2 Corinthians 6:1](https://www.biblegateway.com/passage/?search=2+Corinthians+6%3A1); [Philippians 2:12–13](https://www.biblegateway.com/passage/?search=Philippians+2%3A12-13) |
+| 15 | Election | Predestination to glory is affirmed; whether it is antecedently unconditional is disputed by school. | [Romans 8:28–30](https://www.biblegateway.com/passage/?search=Romans+8%3A28-30); [Ephesians 1:3–14](https://www.biblegateway.com/passage/?search=Ephesians+1%3A3-14) |
+| 16 | Reprobation | God predestines no one to hell; final loss involves freely persisted sin, though providence and permission are further analyzed by schools. | [Ezekiel 33:11](https://www.biblegateway.com/passage/?search=Ezekiel+33%3A11); [1 Timothy 2:4](https://www.biblegateway.com/passage/?search=1+Timothy+2%3A4) |
+| 17 | Perseverance | Final perseverance is a gift to seek; sanctifying grace can be lost through mortal sin. | [John 15:1–10](https://www.biblegateway.com/passage/?search=John+15%3A1-10); [1 Corinthians 10:12](https://www.biblegateway.com/passage/?search=1+Corinthians+10%3A12) |
+
+**Approximate modern mapping:** Molinism is libertarian; some Thomist accounts have compatibilist-like features, but neither label captures the Catholic doctrines of primary/secondary causation and grace without qualification.
 
 ## Internal schools
 
@@ -52,7 +67,7 @@ See [Aquinas](../tradition-builders/aquinas.md) and [Molina](../tradition-builde
 
 ## Reformed Assessment
 
-Catholic theology's strongest contribution is its sophisticated integration of grace, created secondary causation, sacrament, and moral formation; Thomist/Bañezian and Molinist theories must not be conflated. From a confessional Reformed perspective, its principal weaknesses lie in a different doctrine of justification and grace-enabled merit, the grounding burden carried by Molinist middle knowledge, and a perseverance account in which sanctifying grace can be forfeited. See [Why Catholic Accounts Are Weaker from a Reformed Perspective](../reformed-evaluation.md#why-catholic-accounts-are-weaker-from-a-reformed-perspective).
+Catholic theology's strongest contribution is its sophisticated integration of grace, created secondary causation, sacrament, and moral formation; Thomist/Bañezian and Molinist theories must not be conflated. From a confessional Reformed perspective, its principal weaknesses lie in a different doctrine of justification and grace-enabled merit, the grounding burden carried by Molinist middle knowledge, and a perseverance account in which sanctifying grace can be forfeited. See [Why Catholic Accounts Are Weaker from a Reformed Perspective](../reformed-evaluation.md#why-catholic-accounts-are-weaker-from-a-reformed-perspective) and the [seventeen-dimension assessment](../reformed-dimensions-biblical-case.md).
 
 ## Authoritative sources
 

@@ -79,7 +79,7 @@ Catholic and Orthodox accounts allow grace to be forfeited; restoration is possi
 
 ## Confessional Reformed evaluation
 
-The descriptive distinctions above remain the basis for fair comparison. An explicitly Reformed assessment argues that effectual renewal better integrates fallen inability, willing faith, unconditional election, and perseverance than models in which grace is sufficient but the final differentiating response remains undetermined. See [A Reformed Evaluation of Free Will](reformed-evaluation.md#the-reformed-account).
+The descriptive distinctions above remain the basis for fair comparison. The [biblical dossiers](biblical-dossiers.md) set the inability, renewal, resistance, and apostasy passages beside their major competing readings. An explicitly Reformed assessment argues that effectual renewal better integrates fallen inability, willing faith, unconditional election, and perseverance than models in which grace is sufficient but the final differentiating response remains undetermined. See [A Reformed Evaluation of Free Will](reformed-evaluation.md#the-reformed-account).
 
 ## Primary and authoritative sources
 

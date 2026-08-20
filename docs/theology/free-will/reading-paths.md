@@ -43,8 +43,10 @@ Each path moves from a framing page to deeper comparison. Pages can also be read
 2. [Philosophical Views](philosophical-views.md)
 3. [Grace and Salvation](grace-and-salvation.md)
 4. [Foreknowledge and Predestination](foreknowledge-and-predestination.md)
-5. [Reformed / Presbyterian](traditions/reformed.md)
-6. [A Reformed Evaluation of Free Will](reformed-evaluation.md)
+5. [Biblical Dossiers](biblical-dossiers.md)
+6. [Reformed / Presbyterian](traditions/reformed.md)
+7. [A Reformed Evaluation of Free Will](reformed-evaluation.md)
+8. [Reformed Evaluation across Seventeen Dimensions](reformed-dimensions-biblical-case.md)
 
 ## Catholic–Orthodox–Protestant comparison
 
@@ -55,6 +57,7 @@ Each path moves from a framing page to deeper comparison. Pages can also be read
 5. [Reformed](traditions/reformed.md)
 6. [Wesleyan / Methodist](traditions/wesleyan-methodist.md)
 7. [Comparison Matrix](comparison-matrix.md)
+8. [Biblical Dossiers](biblical-dossiers.md)
 
 ## Deep free-will study
 

@@ -1,10 +1,12 @@
 # A Reformed Evaluation of Free Will
 
-> This page evaluates the major free-will and grace traditions from a confessional Reformed perspective. Historical descriptions elsewhere in this wiki remain descriptive; the analysis here is intentionally theological and evaluative.
+> **Confessional Reformed evaluation:** This page evaluates the major free-will and grace traditions from a Reformed theological framework. Historical descriptions elsewhere in this wiki remain descriptive.
 
 The Reformed account is presented here as the strongest synthesis because it preserves comprehensive divine sovereignty, radical dependence on grace, meaningful human voluntariness and responsibility, unconditional election, effectual calling, and perseverance without making salvation finally depend on an autonomous human decision.
 
 This is a cumulative argument, not a claim that Reformed theology has no hard questions. Its governing comparison is **explanatory cost**: what must each model affirm, qualify, or leave unresolved in order to hold together its account of providence, agency, sin, grace, and final salvation?
+
+For the complete biblical treatment, use the [confessional assessment of all seventeen dimensions](reformed-dimensions-biblical-case.md) and the comparative [biblical dossiers](biblical-dossiers.md). Those pages link the full passage ranges, explain the strongest competing readings, and isolate the exegetical hinge instead of treating references as self-interpreting proof texts.
 
 ## Criteria for Evaluation
 
@@ -356,6 +358,27 @@ First Timothy 2 and 2 Peter 3 appear to express a broad divine desire to save. R
 Does transforming desire preserve meaningful relational freedom, or would love require the live possibility of final refusal? The Reformed reply is that healed love can be most free when it is most fully inclined to the good; God's work establishes willing communion rather than bypassing it. A libertarian will dispute whether transformed willingness is enough.
 
 These objections are serious, but need not be fatal if concurrent agency is coherent, voluntariness grounds responsibility, and the scriptural case for effectual grace and election is cumulative. The comparative claim is that rival systems face greater or less manageable costs—not that Reformed theology has no mysteries.
+
+## Objection Index
+
+The focused page treats these objections inside the dimension where each has the greatest force. Several overlap; the links prevent a brief label from substituting for the argument.
+
+| Objection or pressure point | Focused treatment |
+|---|---|
+| Manipulation and transformed desires | [Sourcehood](reformed-dimensions-biblical-case.md#2-sourcehood) and [voluntariness](reformed-dimensions-biblical-case.md#3-voluntariness) |
+| Ultimate sourcehood | [Sourcehood](reformed-dimensions-biblical-case.md#2-sourcehood) |
+| Consequence argument | [Alternative possibilities](reformed-dimensions-biblical-case.md#1-alternative-possibilities) and [causal determination](reformed-dimensions-biblical-case.md#6-causal-determination) |
+| Principle of alternative possibilities | [Alternative possibilities](reformed-dimensions-biblical-case.md#1-alternative-possibilities) |
+| Modal collapse and divine freedom | [Divine foreknowledge](reformed-dimensions-biblical-case.md#8-divine-foreknowledge) |
+| Author of sin | [Divine determination](reformed-dimensions-biblical-case.md#7-divine-determination) |
+| Wider problem of evil | [Divine determination](reformed-dimensions-biblical-case.md#7-divine-determination) and the [sovereignty dossier](biblical-dossiers.md#1-divine-sovereignty-and-human-responsibility) |
+| Unequal grace | [Grace priority](reformed-dimensions-biblical-case.md#10-grace-priority) and [grace efficacy](reformed-dimensions-biblical-case.md#11-grace-efficacy) |
+| Unconditional election | [Election](reformed-dimensions-biblical-case.md#15-election) and [Romans 9](biblical-dossiers.md#romans-9624) |
+| Reprobation | [Reprobation](reformed-dimensions-biblical-case.md#16-reprobation) |
+| Universal-saving-will texts | [Universal saving will dossier](biblical-dossiers.md#5-universal-saving-will-and-universal-provision), [1 Timothy 2:4](biblical-dossiers.md#1-timothy-24), and [2 Peter 3:9](biblical-dossiers.md#2-peter-39) |
+| Resistibility texts and two-call distinction | [Resistibility](reformed-dimensions-biblical-case.md#12-resistibility) and its [dossier](biblical-dossiers.md#6-resistibility) |
+| Apostasy warnings | [Perseverance](reformed-dimensions-biblical-case.md#17-perseverance), [warning dossier](biblical-dossiers.md#8-apostasy-warnings), and [Hebrews 6/10](biblical-dossiers.md#hebrews-6-and-10) |
+| Responsibility under moral inability | [Moral responsibility](reformed-dimensions-biblical-case.md#5-moral-responsibility) and [spiritual ability](reformed-dimensions-biblical-case.md#9-spiritual-ability) |
 
 ## Sources and Further Study
 

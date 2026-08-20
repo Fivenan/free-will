@@ -1,6 +1,6 @@
 # Christian Traditions Compared
 
-“This tradition believes in free will” is too imprecise to compare traditions. The tables separate fallen ability, grace, conversion, election, perseverance, and philosophical affinity.
+“This tradition believes in free will” is too imprecise to compare traditions. The two tables below are an orientation; the [complete comparison matrix](../comparison-matrix.md#traditions-across-all-seventeen-dimensions) keeps all seventeen dimensions separate, and every linked tradition page answers the same seventeen questions with representative biblical support.
 
 > **Scope:** Rows summarize classical or official sources and name internal diversity. They do not claim that every member, theologian, or denomination uses the modern philosophical labels shown.
 
@@ -47,6 +47,8 @@
 - [Baptist](baptist.md)
 - [Anabaptist / Mennonite](anabaptist-mennonite.md)
 - [Pentecostal](pentecostal.md)
+
+Continue with the [biblical dossiers](../biblical-dossiers.md) to compare how these traditions read sovereignty, inability, regeneration, election, universal-saving-will language, resistibility, perseverance, and apostasy warnings.
 
 ## Authoritative controls
 
