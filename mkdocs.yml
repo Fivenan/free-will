@@ -1,0 +1,50 @@
+site_name: Free Will Wiki
+nav:
+  - Home: index.md
+  - Free Will:
+      - Overview: theology/free-will/index.md
+      - Dimensions: theology/free-will/dimensions.md
+      - Philosophical Views: theology/free-will/philosophical-views.md
+      - Moral Responsibility: theology/free-will/moral-responsibility.md
+      - Foreknowledge & Predestination: theology/free-will/foreknowledge-and-predestination.md
+      - Grace & Salvation: theology/free-will/grace-and-salvation.md
+      - Reformed Evaluation: theology/free-will/reformed-evaluation.md
+      - Church Fathers:
+          - Overview: theology/free-will/church-fathers/index.md
+          - Early Fathers: theology/free-will/church-fathers/early-fathers.md
+          - Greek Fathers: theology/free-will/church-fathers/greek-fathers.md
+          - Latin Fathers: theology/free-will/church-fathers/latin-fathers.md
+          - Augustine: theology/free-will/church-fathers/augustine.md
+      - Christian Traditions:
+          - Overview: theology/free-will/traditions/index.md
+          - Roman Catholic: theology/free-will/traditions/catholic.md
+          - Eastern Orthodox: theology/free-will/traditions/eastern-orthodox.md
+          - Lutheran: theology/free-will/traditions/lutheran.md
+          - Reformed / Presbyterian: theology/free-will/traditions/reformed.md
+          - Anglican: theology/free-will/traditions/anglican.md
+          - Wesleyan / Methodist: theology/free-will/traditions/wesleyan-methodist.md
+          - Baptist: theology/free-will/traditions/baptist.md
+          - Anabaptist / Mennonite: theology/free-will/traditions/anabaptist-mennonite.md
+          - Pentecostal: theology/free-will/traditions/pentecostal.md
+      - Tradition Builders:
+          - Overview: theology/free-will/tradition-builders/index.md
+          - Thomas Aquinas: theology/free-will/tradition-builders/aquinas.md
+          - Martin Luther: theology/free-will/tradition-builders/luther.md
+          - Calvin & Edwards: theology/free-will/tradition-builders/calvin.md
+          - Molina & Báñez: theology/free-will/tradition-builders/molina.md
+          - Jacobus Arminius: theology/free-will/tradition-builders/arminius.md
+          - John Wesley: theology/free-will/tradition-builders/wesley.md
+          - Anglican Builders: theology/free-will/tradition-builders/anglican-builders.md
+          - Baptist Builders: theology/free-will/tradition-builders/baptist-builders.md
+          - Anabaptist Builders: theology/free-will/tradition-builders/anabaptist-builders.md
+          - Pentecostal Pioneers: theology/free-will/tradition-builders/pentecostal-pioneers.md
+      - Major Theologians:
+          - Overview: theology/free-will/major-theologians/index.md
+          - Ten Who Shaped Christian Thought: theology/free-will/major-theologians/top-ten-influence.md
+          - Ten for the Free-Will Debate: theology/free-will/major-theologians/top-ten-free-will.md
+      - Historical Development: theology/free-will/historical-development.md
+      - Comparison Matrix: theology/free-will/comparison-matrix.md
+      - Reading Paths: theology/free-will/reading-paths.md
+      - Glossary: theology/free-will/glossary.md
+      - Common Confusions: theology/free-will/common-confusions.md
+      - Source Index: theology/free-will/sources.md
